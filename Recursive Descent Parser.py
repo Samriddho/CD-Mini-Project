@@ -74,3 +74,5 @@ if(E()):
     
 else:
     print("string is not accepted")
+    
+    #cd_mini_project
