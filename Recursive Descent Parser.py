@@ -1,3 +1,4 @@
+#py
 print("Recursive Desent Parsing For following grammar\n")
 print("E->TE'\nE'->+TE'/@\nT->FT'\nT'->*FT'/@\nF->(E)/i\n")
 print("Enter the string want to be checked\n")
